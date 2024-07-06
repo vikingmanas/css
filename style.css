@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+img {
+    width: 50%;
+    border: 5px solid darkgray;
+
+}
+div{
+    text-align: center;
+    margin-left: 25%;
+    width: 50%;
+}
